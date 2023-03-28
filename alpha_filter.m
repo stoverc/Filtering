@@ -1,5 +1,5 @@
 function [vectpos] = alpha_filter(pos,pos0,alpha)
-% Comment
+
 xk1 = pos0;
 vectpos = zeros(size(pos));
 

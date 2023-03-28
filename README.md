@@ -3,7 +3,7 @@ A collection of functions written for filtering data.
 
 ## Changelog
 ## 28 Mar 2023
-Testing CLI integration.
+Testing CLI integration. Later, undid.
 
 ### 6 Oct 2022
 First version of the repo, including five different Matlab `implementation` of filtering functions + related functions. Included `Matlab` implementations include:
