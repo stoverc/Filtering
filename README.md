@@ -2,7 +2,7 @@
 A collection of functions written for filtering data.
 
 ## Changelog
-## 28 Mar 2023
+### 28 Mar 2023
 Testing CLI integration. Later, undid.
 
 ### 6 Oct 2022
